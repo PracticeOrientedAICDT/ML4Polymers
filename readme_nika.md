@@ -7,6 +7,12 @@ conda activate polyNC1
 (3. conda install -c conda-forge rust) --not neccessary with 3.10
 
 3. pip install -r requirements.txt
+4. #install kernel:# 
+python -m pip install ipykernel
+python -m ipykernel install --user --name polyNC1 --display-name "Python (polyNC1)"
+5. pip install tensorboard
+6. pip install nltk
+
 
 
 
