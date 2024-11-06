@@ -1,6 +1,6 @@
 data/test
 data/train
-notebooks/
+notebooks/runs
 model_save/cls-5tasks-bs150-bs8-lr5e6-epoch100/
 notebooks/.../model_save/cls-5tasks-bs150-bs8-lr5e6-epoch100/
 
