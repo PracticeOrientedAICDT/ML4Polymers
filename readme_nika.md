@@ -5,6 +5,8 @@ conda activate polyNC1
 
 2. conda install pytorch::pytorch torchvision torchaudio -c pytorch
 (3. conda install -c conda-forge rust) --not neccessary with 3.10
+2.1 conda install -c conda-forge sentencepiece
+
 
 3. pip install -r requirements.txt
 4. #install kernel:# 
